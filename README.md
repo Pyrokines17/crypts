@@ -1,2 +1,2 @@
 # crypts
-Repository for crypts of "information protection" course
+Repository for labs of "information protection" course
